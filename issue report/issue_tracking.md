@@ -18,7 +18,7 @@ Before we dig in the issue `how to query search box`. We have to have a few but 
 2. How to make it into one or more expressions.
 
     1. ensure the separator is for key-value pair. Which is the separator `:` or `=`?
-    2. With your ideas by the step 1, making them into many expressions (with your brain and logic). 
+    2. With your ideas by the step 1, making them into many expressions (with your brain and logic). For more details about available keys (or said fields in query search language in issuetracker, see [query search language](https://developers.google.com/issue-tracker/concepts/search-query-language))
 
 3. Combine these expression with logical operators.
 4. Fill it into search box. And then search it. 
